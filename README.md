@@ -3,24 +3,28 @@ Olá, meu nome é Lucas Santiago, sou desenvolvedor de Front-end, estudante de E
 </br>
 Hi, my name is Lucas Santiago, I'm a Front-end developer, a Software Engineering student, and I'm fascinated by technology.
 
-### ℹ️ Sobre mim / About me
-Olá, meu nome é Lucas Santiago, sou desenvolvedor de Front-end, estudante de Engenharia de Software, e facinado por tecnologia.
-</br>
-Hi, my name is Lucas Santiago, I'm a Front-end developer, a Software Engineering student, and I'm fascinated by technology.
-
 ### 🛠 Conhecimentos / Knowledges
 
-[![Java](https://img.shields.io/badge/-Java-CF0E0E?style=flat-square&logo=java&link=https://github.com/lucascostasantiago)](https://github.com/lucascostasantiago/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/lucascostasantiago/)
-[![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+</div>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Lucas-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Lucas-Materialui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg">
+</div>
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/lucascostasantiago/)](https://github.com/lucascostasantiago/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+</div>
 
 ##
 
