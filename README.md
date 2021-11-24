@@ -1,9 +1,13 @@
-### ℹ️ Sobre mim / About me
-Olá, meu nome é Lucas Santiago, sou desenvolvedor de Front-end, estudante de Engenharia de Software, e facinado por tecnologia.
-</br>
-Hi, my name is Lucas Santiago, I'm a Front-end developer, a Software Engineering student, and I'm fascinated by technology.
+## Hi, I'm Lucas Santiago 👋😄
+<div> 
+  <a href = "mailto:lcscostasantiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucascostasantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-### 🛠 Conhecimentos / Knowledges
+### ℹ️ About me
+Front-end developer, Software Engineering student, and fascinated by technology.
+##
+### 🛠 Technologies & Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,13 +28,4 @@ Hi, my name is Lucas Santiago, I'm a Front-end developer, a Software Engineering
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-</div>
-
-##
-
-### 📲 Contato / Contact
- 
-<div> 
-  <a href = "mailto:lcscostasantiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucascostasantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
