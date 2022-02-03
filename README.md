@@ -5,7 +5,9 @@
 </div>
 
 ### ℹ️ About me
-Front-end developer, Software Engineering student, and fascinated by technology.
+Full-Stack developer using technologies such as C#, .NET Framework, Microsoft SQL Server, Java, Spring Framework, JavaScript, TypeScript, React.js, Angular.
+I am currently graduating in Software Engineering at the Federal University of Ceará (UFC).
+Passionate about technology and always seeking knowledge.
 ##
 ### 🛠 Technologies & Tools
 
