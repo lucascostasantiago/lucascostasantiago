@@ -10,6 +10,7 @@ Full Stack developer using C#, .NET Framework, Microsoft SQL Server, JavaScript,
 Knowledge in Java, Spring Framework, Angular.
 ##
 ### 🛠 Technologies & Tools
+I currently develop and have experience with the following languages, frameworks and versioning tools.
 
 <div style="display: inline_block"><br>
   <img align="center" alt=".net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
@@ -23,10 +24,10 @@ Knowledge in Java, Spring Framework, Angular.
   <img align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
   <img align="center" alt="sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="material-ui" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-</div>
-
-<div style="display: inline_block"><br>
   <img align="center" alt="azure-devops" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="git-hub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
+<div style="display: inline_block"><br>
 </div>
