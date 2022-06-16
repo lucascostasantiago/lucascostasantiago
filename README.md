@@ -5,9 +5,8 @@
 </div>
 
 ### ℹ️ About me
-Graduating in Software Engineering at the Federal University of Ceará (UFC).
-Full Stack developer using C#, .NET Framework, Microsoft SQL Server, JavaScript, TypeScript, React.js.
-Knowledge in Java, Spring Framework, Angular.
+I try to give my best in everything I do, I am always attentive to new technologies and always applying the acquired knowledge.
+Full Stack developer using as technologies,
 ##
 ### 🛠 Technologies & Tools
 I develop and have experience with the following languages, frameworks, database and versioning tools.
