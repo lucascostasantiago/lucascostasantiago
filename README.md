@@ -38,7 +38,7 @@
 ### ⚡ Github Stats</b></summary>
 
 <div align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostasantiago&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=Tokyonight"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=Tokyonight" />	
-    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=Tokyonight" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostasantiago&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=merko"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" />	
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" />
 </div>
