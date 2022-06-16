@@ -1,6 +1,6 @@
 ### 🚀 Languages and Tools:</summary>
 
-<p align="left">
+<p align="center">
     <img align="center" alt=".net" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
     <img align="center" alt="dotnet-core" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> 
     <img align="center" alt="c#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -24,11 +24,10 @@
 
 ### ⚡ Github Stats</b></summary>
 
-<div align="left">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostasantiago&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
-    <img height="110em" src="https://github-readme-stats.vercel.app/api?username=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-    </div>
-    <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+<div align="center">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostasantiago&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
+    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
 ### Let's connect? 🤝
