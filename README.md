@@ -1,3 +1,16 @@
+<div align="center">
+    <h2>Let's connect? 🤝</h2>
+    <h4>I try to give my best in everything I do, I am always attentive to new technologies and always applying the acquired knowledge.</h4>
+    <a href = "mailto:lcscostasantiago@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/lucascostasantiago/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</div>
+
+#
+
 ### 🚀 Languages and Tools:</summary>
 
 <p align="center">
@@ -29,14 +42,3 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />	
     <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascostasantiago&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
-
-### Let's connect? 🤝
-
-<p align="left">
-    <a href = "mailto:lcscostasantiago@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/lucascostasantiago/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-</p>
