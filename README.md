@@ -6,9 +6,9 @@
 
 ### ℹ️ About me
 I try to give my best in everything I do, I am always attentive to new technologies and always applying the acquired knowledge.
-Full Stack developer using as technologies,
+
 ##
-### 🛠 Technologies & Tools
+### 🛠 Full Stack developer using as technologies,
 
 <div style="display: inline_block"><br>
     <img align="center" alt=".net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
